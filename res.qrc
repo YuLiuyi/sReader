@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>images/excel.png</file>
+        <file>images/pdf.png</file>
+        <file>images/word.png</file>
+        <file>res/pic.png</file>
+        <file>qml/PhotoViewer.qml</file>
+        <file>qml/fm.js</file>
+    </qresource>
+</RCC>

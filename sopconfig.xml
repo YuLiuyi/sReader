@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sopconfig syberos:shareUserId="" syberos:versionName="1.0.1" xmlns:syberos="http://schemas.syberos.com/sop/res/syberos/v1" syberos:sopid="com.syberos.sreader" syberos:versionCode="2">
+    <uses-permission syberos:name="syberos.permission.ACCESS_STORAGE"/>
+    <uses-sdk syberos:targetSdkVersion="" syberos:minSdkVersion=""/>
+    <application syberos:debuggable="true" syberos:name="元心文档" syberos:description="加载元心体系文件.此版本：修改bug." syberos:icon="res/sReader.png">
+        <uiapp syberos:splash="" syberos:exec="bin/sReader" syberos:launcher="true" syberos:background="" syberos:name="" syberos:id="sReader" syberos:icon="res/sReader.png">
+            <doctype syberos:id=""/>
+        </uiapp>
+    </application>
+</sopconfig>
